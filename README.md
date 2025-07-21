@@ -34,8 +34,8 @@ Logistic Regression, Naive Bayes (Gaussian, Bernoulli, Multinomial), K-Nearest N
 - Download and open the files in vs code or any environment
 - In vs code terminal install pip install wordcloud, xgboost, nltk==3.8.1 and other requirement (if not installed yet)
 - Run the .ipynb file it will generate a pickle files for Multinomial model, voting classifier, and CountVectorizer
-- Now run the .py file UI will open in a browser. If it do not open automatically copy the link from terminal and manually open in browser
-
+- Now open the .py file and save in same folder.(keep all file in same folder)
+- In terminal run code: streamlit run movie_analysis.py  UI will open in a browser. 
 
 ## Improvement
 
