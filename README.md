@@ -42,4 +42,4 @@ Logistic Regression, Naive Bayes (Gaussian, Bernoulli, Multinomial), K-Nearest N
 ### Code Optimization
 Code can be optimized for faster work. Ex. First algorithms are assigned to a variable and then used that variable in the dictionary, instead they can directly be used as values of the dictionary.
 - **Benefit**: Improves execution speed and user exeprience
-- **Cons**: Increased complexity of code 
+- **Consideration**: Code optimization will improve the overall performance but it also causes increase in the code complexity. It becomes difficult for a beginner to understand the code
